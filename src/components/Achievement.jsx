@@ -96,8 +96,7 @@ const Achievement = () => {
           }}
         >
           Long story short, I'm currently looking for a new project where I
-          could step in on many different levels: content, social media, digital
-          communication, design, and more!
+          could step in on many different levels: Android app, Web app, , design, and more!
           <br />
           <br />
           You'd like to work with someone who's passionate, experienced,
