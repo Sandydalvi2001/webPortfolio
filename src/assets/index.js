@@ -8,7 +8,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import java from "./tech/java.png";
+import java from "./tech/Java.png";
 import cpp from "./tech/cpp.png";
 import python from "./tech/python.png";
 import sql from "./tech/sql.png";
