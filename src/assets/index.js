@@ -33,6 +33,9 @@ import nvent from "./company/nvent.png";
 import sandy from "./company/sandy.png";
 import sparks from "./company/sparks.png";
 
+import rs1 from "./rs1.png";
+import rs2 from "./rs2.png";
+import rs3 from "./rs3.png";
 import po1 from "./po1.png";
 import po2 from "./po2.png";
 import po3 from "./po3.png";
@@ -79,4 +82,7 @@ export {
   po1,
   po2,
   po3,
+  rs1,
+  rs2,
+  rs3,
 };

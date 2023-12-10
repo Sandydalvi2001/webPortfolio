@@ -1,7 +1,10 @@
+'use client';
 import { BrowserRouter } from "react-router-dom";
 
 import { About, Contact, Experience, Feedbacks, Achievement, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 import Particle from "./components/Particle";
+import React from "react";
+import { useEffect } from 'react'
 
 const App = () => {
   return (
@@ -15,7 +18,7 @@ const App = () => {
       </div> */}
         </div>
         <About />
-        {/* <Achievement/> */}
+        <Achievement/>
         <Experience />
         <Tech />
         <Works />
